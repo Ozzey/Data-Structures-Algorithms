@@ -28,7 +28,9 @@
 
 ## Questions 
 
-| | No.| Question | Data Structur e| Algorithm | Difficulty | Attempt | Date |
+| | No.| Question | Data Structure| Algorithm | Difficulty | Attempt | Date |
 |-|----|-----------------|-------|-----------|-----|------|-----|
-| | 1 | [Two Sum](https://leetcode.com/submissions/detail/1067128275/) | Array | Easy | YES | 2023-10-04 |
-| | 2 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | Array | Easy | YES | 2023-10-4 |
+| | 1 | [Two Sum](https://leetcode.com/submissions/detail/1067128275/) | Array | Two Pointers | Easy | YES | 2023-10-04 |
+| | 2 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | Array | Two Pointers | Easy | YES | 2023-10-4 |
+| | 3 | [Reverse String (In-Place)](https://leetcode.com/problems/reverse-string/submissions/) | Array | Two Pointers | Easy | NO | 2023-10-4 |
+| | 4 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/?envType=daily-question&envId=2023-10-05) | Hash-Table | Sorting | Medium | NO | 2023-10-06 |
