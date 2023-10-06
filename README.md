@@ -34,3 +34,6 @@
 | | 2 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | Array | Two Pointers | Easy | YES | 2023-10-4 |
 | | 3 | [Reverse String (In-Place)](https://leetcode.com/problems/reverse-string/submissions/) | Array | Two Pointers | Easy | NO | 2023-10-4 |
 | | 4 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/?envType=daily-question&envId=2023-10-05) | Hash-Table | Sorting | Medium | NO | 2023-10-06 |
+| | 5 | [Integer Break](https://leetcode.com/problems/integer-break/description/?envType=daily-question&envId=2023-10-06) | - | DP | Medium | YES | 2023-10-07 |
+| | 6 | [Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | String | Two Pointers | Easy | NO | 2023-07-10 |
+
