@@ -3,13 +3,18 @@
 ***
 
 ## Data-Structures
+[GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
-
-| | No. | Name | Link |
-|-|---|---|---|
-| | 1 | Array | [Arrays](https://www.geeksforgeeks.org/array-data-structure/) |
-| | 2 | Linked List | [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/) |
+- [Array](#array)
+- [Linked List](#linked-list)
+- [Stack](#stack)
+- [Queue](#queue)
+- [Binary Tree](#binary-tree)
+- [Binary Search Tree](#binary-search-tree)
+- [Heap](#heap)
+- [Hashing](#hashing)
+- [Graph](#graph)
+- [Matrix](#matrix)
 
 
 ***
