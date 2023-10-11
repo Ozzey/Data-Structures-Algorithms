@@ -76,3 +76,4 @@ Others : [GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 | | 11  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | LinkedList | - | Easy | NO | 2023-10-09 |
 | | 12  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Array | Binary Search | Medium | NO | 2023-10-09 |
 | | 13  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | LinkedList | - | Easy | YES | 2023-10-10 |
+| | 14  | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/) | LinkedList | Two Pointers | Easy | NO | 2023-10-11 |
