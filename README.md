@@ -79,3 +79,5 @@ Others : [GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 | | 14  | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/) | LinkedList | Two Pointers | Easy | NO | 2023-10-11 |
 | | 15  | [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/) | LinkedList | Recursion | Easy | YES | 2023-10-12 |
 | | 16  | [Remove Elements from Linked List](https://leetcode.com/problems/remove-linked-list-elements/description/) | LinkedList | Recursion | Easy | NO | 2023-10-12 |
+| | 17  | [Power of Three](https://leetcode.com/problems/power-of-three/description/) | Math | Recursion | Easy | NO | 2023-10-12 |
+| | 18  | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math | Recursion | Easy | NO | 2023-10-12 |
