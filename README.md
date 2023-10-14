@@ -83,3 +83,4 @@ Others : [GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 | | 18  | [Power of Four](https://leetcode.com/problems/power-of-four/) | - | Recursion | Easy | NO | 2023-10-12 |
 | | 19  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LinkedList | Recursion | Medium | NO | 2023-10-13 |
 | | 20  | [Remove Nth Node From End of The List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | LinkedList | Recursion | Medium | NO | 2023-10-13 |
+| | 21  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | LinkedList | Recursion | Medium | YES | 2023-10-14
