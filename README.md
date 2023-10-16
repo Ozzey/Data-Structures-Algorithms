@@ -85,4 +85,5 @@ Others : [GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 | | 20  | [Remove Nth Node From End of The List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | LinkedList | Recursion | Medium | NO | 2023-10-13 |
 | | 21  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | LinkedList | Recursion | Medium | YES | 2023-10-14 |
 | | 22  | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/) | Array | Brute Force | Easy | NO | 2023-10-15 |
-| | 23  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | LinkedList | Two Pointers | Medium | NO | 2023-10-15 |
+| | 23  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | LinkedList | Two Pointers | Medium | NO | 2023-10-15 |
+| | 24  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Linked List | Two Pointers | Easy | YES | 2023-10-16 | 
