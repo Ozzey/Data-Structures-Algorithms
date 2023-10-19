@@ -30,7 +30,7 @@
 - [Backtracking](#backtracking) 
 - [Divide & Conquer](#divide--conquer) 
 - [Graph Algorithms](#graph-algorithms)  
-- [Mathematical Algorithms](#mathematical-algorithms) |
+- [Mathematical Algorithms](#mathematical-algorithms) 
 
 ---
 
@@ -86,4 +86,5 @@ Others : [GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 | | 21  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | LinkedList | Recursion | Medium | YES | 2023-10-14 |
 | | 22  | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/) | Array | Brute Force | Easy | NO | 2023-10-15 |
 | | 23  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | LinkedList | Two Pointers | Medium | NO | 2023-10-15 |
-| | 24  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Linked List | Two Pointers | Easy | YES | 2023-10-16 | 
+| | 24  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Linked List | Two Pointers | Easy | YES | 2023-10-16 |
+| | 25  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | String | Two Pointers | Easy | YES | 2023-10-19 | 
